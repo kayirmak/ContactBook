@@ -1,0 +1,41 @@
+{
+  "todos": [
+    {
+      "id": 0,
+      "name": "David",
+      "lastName": "Villa",
+      "phoneNumber": 996779879653,
+      "status": false
+    },
+    {
+      "id": 1,
+      "name": "Fernando",
+      "lastName": "Torres",
+      "phoneNumber": 996779451295
+    },
+    {
+      "name": "kairat",
+      "lastName": "dzhumabaev",
+      "phoneNumber": "779233280",
+      "id": 6
+    },
+    {
+      "name": "leo",
+      "lastName": "messi",
+      "phoneNumber": "485128451",
+      "id": 8
+    },
+    {
+      "name": "Conor",
+      "lastName": "Mcgregor",
+      "phoneNumber": "134865",
+      "id": 9
+    },
+    {
+      "name": "Khabib",
+      "lastName": "Nurmagamedov",
+      "phoneNumber": "123548976",
+      "id": 10
+    }
+  ]
+}
